@@ -17,7 +17,7 @@ to install dependencies:
 npm i pg express 
 ```
 
-add `"type": "module"` just after name in package.json
+add `"type": "module"` just after `"name"` in `package.json`
 
 To run the program use:
 
